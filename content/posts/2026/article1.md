@@ -3,7 +3,7 @@ title: "Fintech : les technologies qui redessinent la finance mondiale"
 date: 2026-01-15T13:03:07+07:00
 slug: /Fintech2026/
 description: À l’horizon 2026, la fintech n’est plus un simple levier d’innovation. Elle s’impose comme une infrastructure centrale de l’économie numérique. Banques, assureurs, startups et régulateurs évoluent désormais dans un même écosystème, porté par des technologies de rupture qui transforment en profondeur les usages financiers, la gestion des risques et la relation client.
-image: images\austin-distel-EMPZ7yRZoGw-unsplash.jpg
+image: ..\images\austin-distel-EMPZ7yRZoGw-unsplash.jpg
 caption: Photo de Austin Distel sur Unsplash
 categories:
   - FinTech & Innovation
