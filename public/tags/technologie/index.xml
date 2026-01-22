@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Technologie on LabVeilTech</title>
+    <link>http://localhost:1313/tags/technologie/</link>
+    <description>Recent content in Technologie on LabVeilTech</description>
+    <generator>Hugo</generator>
+    <language>fr-ch</language>
+    <lastBuildDate>Tue, 20 Jan 2026 13:01:07 +0700</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/technologie/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Les principales tendances bancaires et de paiement</title>
+      <link>http://localhost:1313/posts/2026/fintech2026/</link>
+      <pubDate>Tue, 20 Jan 2026 13:01:07 +0700</pubDate>
+      <guid>http://localhost:1313/posts/2026/fintech2026/</guid>
+      <description>&lt;h2 id=&#34;les-grandes-tendances-bancaires-et-de-paiements-en-2026&#34;&gt;Les grandes tendances bancaires et de paiements en 2026&lt;/h2&gt;&#xA;&lt;p&gt;L’année 2026 s’annonce comme une étape charnière pour la banque et les paiements, portée par l’adoption à grande échelle de technologies comme l’intelligence artificielle, les paiements invisibles et l’open finance. Les principaux acteurs du secteur s’accordent à dire que ces thèmes vont profondément transformer l’expérience client, les modèles d’affaires et les infrastructures financières.&lt;/p&gt;&#xA;&lt;h2 id=&#34;lia-devient-opérationnelle&#34;&gt;L’IA devient opérationnelle&lt;/h2&gt;&#xA;&lt;p&gt;En 2026, l’intelligence artificielle ne sera plus un simple projet pilote ou une expérimentation, mais un moteur concret d’efficacité et de croissance dans les banques. Grâce aux assistants autonomes (agentic assistants), à l’automatisation des workflows et à l’IA intégrée dans les processus de conformité, les institutions financières visent des gains mesurables en productivité et en personnalisation des services.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Fintech : les technologies qui redessinent la finance mondiale</title>
+      <link>http://localhost:1313/posts/2026/fintech2026/</link>
+      <pubDate>Thu, 15 Jan 2026 13:03:07 +0700</pubDate>
+      <guid>http://localhost:1313/posts/2026/fintech2026/</guid>
+      <description>&lt;h2 id=&#34;lintelligence-artificielle-devient-un-socle-stratégique&#34;&gt;L’intelligence artificielle devient un socle stratégique&lt;/h2&gt;&#xA;&lt;p&gt;L’intelligence artificielle est aujourd’hui intégrée à presque toutes les briques de la fintech. D’ici 2026, elle ne sera plus un avantage compétitif mais un prérequis.&lt;/p&gt;&#xA;&lt;p&gt;Les algorithmes de machine learning permettent déjà la détection de fraude en temps réel, l’analyse de solvabilité ou la personnalisation des offres. Leur évolution repose désormais sur l’IA générative, capable de produire des analyses financières, des simulations de portefeuilles ou des réponses client automatisées avec un niveau de précision inédit.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

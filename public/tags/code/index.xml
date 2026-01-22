@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Code on LabVeilTech</title>
+    <link>http://localhost:1313/tags/code/</link>
+    <description>Recent content in Code on LabVeilTech</description>
+    <generator>Hugo</generator>
+    <language>fr-ch</language>
+    <lastBuildDate>Tue, 20 Jan 2026 16:00:00 +0700</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/code/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mon système de Veille Tech : filtrer le monde à travers mon Ikigai</title>
+      <link>http://localhost:1313/posts/2026/ma-veille/</link>
+      <pubDate>Tue, 20 Jan 2026 16:00:00 +0700</pubDate>
+      <guid>http://localhost:1313/posts/2026/ma-veille/</guid>
+      <description>&lt;h2 id=&#34;mon-système-de-veille-&#34;&gt;Mon système de veille !&lt;/h2&gt;&#xA;&lt;p&gt;Je regarde l’actualité, les tendances et les contenus à travers un prisme clair :&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Sport&lt;/li&gt;&#xA;&lt;li&gt;Design &amp;amp; Produit&lt;/li&gt;&#xA;&lt;li&gt;Développement et nouvelles technologies&lt;/li&gt;&#xA;&lt;li&gt;Plateformes, expériences digitales&lt;/li&gt;&#xA;&lt;li&gt;Culture, usage et “better life”&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Chaque information n’est intéressante que si elle entre en résonance avec ce que j’aime, ce que je fais et ce que je veux construire.&lt;/p&gt;&#xA;&lt;h2 id=&#34;la-presse&#34;&gt;La presse&lt;/h2&gt;&#xA;&lt;p&gt;Je lis beaucoup la presse, notamment via &lt;strong&gt;PressReader&lt;/strong&gt;, qui me permet d’accéder à des journaux et magazines du monde entier.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

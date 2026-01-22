@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Productivité on LabVeilTech</title>
+    <link>http://localhost:1313/tags/productivit%C3%A9/</link>
+    <description>Recent content in Productivité on LabVeilTech</description>
+    <generator>Hugo</generator>
+    <language>fr-ch</language>
+    <lastBuildDate>Tue, 20 Jan 2026 15:30:00 +0700</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/productivit%C3%A9/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Les LLM et la transformation du travail créatif et technique</title>
+      <link>http://localhost:1313/posts/2026/llm-2026-adoption/</link>
+      <pubDate>Tue, 20 Jan 2026 15:30:00 +0700</pubDate>
+      <guid>http://localhost:1313/posts/2026/llm-2026-adoption/</guid>
+      <description>&lt;h2 id=&#34;les-llm-en-2026--une-réalité-mature-et-intégrée&#34;&gt;Les LLM en 2026 : Une réalité mature et intégrée&lt;/h2&gt;&#xA;&lt;p&gt;Trois ans après le boom initial, les modèles de langage de grande taille ne sont plus une question technologique abstraite ou une disruption hypothétique. Ils font partie intégrante des outils professionnels pour de nombreuses organisations.&lt;/p&gt;&#xA;&lt;p&gt;Ce qui a changé en 2026 : les LLM se sont spécialisés, fiabilisés et intégrés profondément dans les workflows existants. Les entreprises qui avaient commencé à explorer cette technologie en 2023-2024 ont maintenant des expériences de déploiement qui montrent des cas d&amp;rsquo;usage réels et mesurables. Les hallucinations ont diminué, les coûts se sont stabilisés, et surtout, une véritable culture d&amp;rsquo;adoption s&amp;rsquo;est installée dans les équipes techniques et créatives.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
