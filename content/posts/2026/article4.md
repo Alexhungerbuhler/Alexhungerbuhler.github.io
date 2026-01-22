@@ -3,7 +3,7 @@ title: "Mon système de Veille Tech : filtrer le monde à travers mon Ikigai"
 date: 2026-01-20T16:00:00+07:00
 slug: /Ma veille/
 description: Ma vision
-image: ../../images/ikigai Alex.png
+image: ../assets/images/ikigai Alex.png
 caption: Plus d'infos sur la page A Propos
 categories:
   - Design

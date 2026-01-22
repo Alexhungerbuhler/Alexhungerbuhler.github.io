@@ -3,7 +3,7 @@ title: "Les LLM et la transformation du travail créatif et technique"
 date: 2026-01-20T15:30:00+07:00
 slug: /LLM-2026-Adoption/
 description: En 2026, les modèles de langage de grande taille ont mûri et intégré les workflows professionnels. Au-delà du hype initial, découvrez comment les équipes utilisent les LLM pour augmenter leur productivité, transformer le développement logiciel et redéfinir les compétences requises dans un paysage technologique en mutation constante.
-image: ../../images/jona-UopUfxghnWo-unsplash.jpg
+image: ../assets/images/jona-UopUfxghnWo-unsplash.jpg
 caption: Photo de Jona sur Unsplash
 categories:
   - Intelligence artificielle

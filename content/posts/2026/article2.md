@@ -4,7 +4,7 @@ date: 2026-01-20T13:01:07+07:00
 slug: /Fintech2026/
 description: L’IA, les paiements invisibles et la finance ouverte figureront parmi les thèmes déterminants du secteur bancaire en 2026, affirment les acteurs du secteur.
 
-image: ../images/jonas-leupe-0IVop5v4MMU-unsplash.jpg
+image: ../assets/images/jonas-leupe-0IVop5v4MMU-unsplash.jpg
 caption: Photo de Jonas Leupe sur Unsplash
       
 categories:
