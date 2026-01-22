@@ -3,7 +3,7 @@ title: "2026 : Les technologies essentielles pour les Product Owners et Designer
 date: 2026-01-20T14:30:00+07:00
 slug: /Tech-PO-Designers-2026/
 description: 2026 marque un tournant pour les Product Owners et Designers. Entre l'IA générative, les outils no-code/low-code, et les nouvelles approches de collaboration, découvrez les technologies qui transforment la création et la gestion de produits numériques.
-image: images/growtika-yGQmjh2uOTg-unsplash.jpg
+image: ../../images/growtika-yGQmjh2uOTg-unsplash.jpg
 caption: Photo de Growtika sur Unsplash
 categories:
   - Product Owner
