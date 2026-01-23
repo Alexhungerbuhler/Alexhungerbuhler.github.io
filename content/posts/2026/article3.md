@@ -2,7 +2,7 @@
 title: "le vibe coding et les outils qui transforment le travail des Product Owners et Designers"
 date: 2026-01-19T14:30:00+07:00
 slug: /Tech-PO-Designers-2026/
-description: En 2026, le travail des Product Owners et des Designers a profondément changé. On ne parle plus seulement de livrer des écrans ou des spécifications, mais de construire des produits en continu, en combinant design, logique produit et compréhension technique. Cette évolution s’appuie sur ce que l’on pourrait appeler le vibe coding : une façon de créer plus fluide, plus itérative, où l’outil accompagne l’intention plutôt que de la contraindre.
+description: En 2026, le travail des Product Owners et des Designers a profondément changé. On ne parle plus seulement de livrer des écrans ou des spécifications, mais de construire des produits en continu, en combinant design, logique produit et compréhension technique. Cette évolution s’appuie sur ce que l’on pourrait appeler le vibe coding, une façon de créer plus fluide, plus itérative, où l’outil accompagne l’intention plutôt que de la contraindre.
 image: ../assets/images/growtika-yGQmjh2uOTg-unsplash.jpg
 caption: Photo de Growtika sur Unsplash
 categories:

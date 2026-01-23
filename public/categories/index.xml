@@ -6,8 +6,22 @@
     <description>Recent content in Categories on LabVeilTech</description>
     <generator>Hugo</generator>
     <language>fr-ch</language>
-    <lastBuildDate>Tue, 20 Jan 2026 16:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Wed, 21 Jan 2026 15:30:00 +0700</lastBuildDate>
     <atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>FinTech &amp; Innovation</title>
+      <link>http://localhost:1313/categories/fintech--innovation/</link>
+      <pubDate>Wed, 21 Jan 2026 15:30:00 +0700</pubDate>
+      <guid>http://localhost:1313/categories/fintech--innovation/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Intelligence Artificielle</title>
+      <link>http://localhost:1313/categories/intelligence-artificielle/</link>
+      <pubDate>Wed, 21 Jan 2026 15:30:00 +0700</pubDate>
+      <guid>http://localhost:1313/categories/intelligence-artificielle/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Design</title>
       <link>http://localhost:1313/categories/design/</link>
@@ -23,23 +37,9 @@
       <description></description>
     </item>
     <item>
-      <title>FinTech &amp; Innovation</title>
-      <link>http://localhost:1313/categories/fintech--innovation/</link>
-      <pubDate>Tue, 20 Jan 2026 15:30:00 +0700</pubDate>
-      <guid>http://localhost:1313/categories/fintech--innovation/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Intelligence Artificielle</title>
-      <link>http://localhost:1313/categories/intelligence-artificielle/</link>
-      <pubDate>Tue, 20 Jan 2026 15:30:00 +0700</pubDate>
-      <guid>http://localhost:1313/categories/intelligence-artificielle/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>Product Owner</title>
       <link>http://localhost:1313/categories/product-owner/</link>
-      <pubDate>Tue, 20 Jan 2026 14:30:00 +0700</pubDate>
+      <pubDate>Mon, 19 Jan 2026 14:30:00 +0700</pubDate>
       <guid>http://localhost:1313/categories/product-owner/</guid>
       <description></description>
     </item>
