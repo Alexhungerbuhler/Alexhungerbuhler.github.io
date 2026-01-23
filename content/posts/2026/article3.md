@@ -23,7 +23,7 @@ Dans le design, elle permet de passer rapidement d’une idée à une structure,
 
 ## Le no-code et le low-code comme langage commun ##
 
-En 2026, le no-code et le low-code sont devenus des outils centraux dans la stack produit. Ils permettent de prototyper, tester et parfois même déployer des fonctionnalités sans attendre des cycles de développement longs.
+Cette année, le no-code et le low-code sont devenus des outils centraux dans la stack produit. Ils permettent de prototyper, tester et parfois même déployer des fonctionnalités sans attendre des cycles de développement longs.
 
 Des outils comme Framer, Webflow ou FlutterFlow ne servent plus uniquement à faire des “démos”. Ils deviennent des espaces où le design, le produit et parfois même la logique métier se rencontrent. Cette approche renforce l’autonomie des équipes et favorise une collaboration plus directe entre designers, product managers et développeurs.
 
