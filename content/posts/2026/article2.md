@@ -1,6 +1,6 @@
 ---
 title: "Les principales tendances bancaires et de paiement"
-date: 2026-01-20T13:01:07+07:00
+date: 2026-01-18T13:01:07+07:00
 slug: /Fintech2026/
 description: L’IA, les paiements invisibles et la finance ouverte figureront parmi les thèmes déterminants du secteur bancaire en 2026, affirment les acteurs du secteur.
 
